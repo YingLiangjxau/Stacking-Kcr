@@ -4,4 +4,4 @@ This is the implementation for our paper:
 ## Step
 >step1:obtain five feature encoding schemes (feature-encoder.7z) by using iLearnPlus (https://github.com/Superzchen/iLearnPlus/).
 >step2:run AE.py to fuse EGAAC and CKSAAP.
-step3:run Stacking.py to get the prediction results.
+>step3:run Stacking.py to get the prediction results.
